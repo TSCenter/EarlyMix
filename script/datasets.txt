@@ -1,0 +1,15 @@
+ChlorineConcentration
+ECG200
+FaceAll
+Gun_Point
+ItalyPowerDemand
+Lighting2
+MALLAT
+MedicalImages
+MoteStrain
+SonyAIBORobotSurface
+SonyAIBORobotSurfaceII
+Symbols
+synthetic_control
+Trace
+TwoLeadECG
