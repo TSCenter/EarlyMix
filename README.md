@@ -1,6 +1,6 @@
 # EarlyMix
 
-Source code (PyTorch) and dataset of the paper "[EarlyMix: Hierarchical Mixing for Early Time Series Classification](https://www.computer.org/csdl/proceedings-article/icme/2025/11209452/2beCG8sJoEo)", which is accepted by IEEE International Conference on Multimedia & Expo 2025 (ICME 2025).
+Source code (PyTorch) and dataset of the paper "[EarlyMix: Hierarchical Mixing for Early Time Series Classification](https://ieeexplore.ieee.org/document/11209452)", which is accepted by IEEE International Conference on Multimedia & Expo 2025 (ICME 2025).
 
 
 ## Dataset
