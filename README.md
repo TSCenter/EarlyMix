@@ -35,25 +35,21 @@ bash run_earlyts_all.sh
 ## License
 If you use EarlyMix in a scientific publication, we would appreciate citations to the following paper:
 ```
-@inproceedings{DBLP:conf/acl/HuHZ25,
+@inproceedings{DBLP:conf/icmcs/HuHLZ25,
   author       = {Shuguo Hu and
                   Jun Hu and
+                  Junwei Lv and
                   Huaiwen Zhang},
-  editor       = {Wanxiang Che and
-                  Joyce Nabende and
-                  Ekaterina Shutova and
-                  Mohammad Taher Pilehvar},
-  title        = {Synergizing LLMs with Global Label Propagation for Multimodal Fake
-                  News Detection},
-  booktitle    = {Proceedings of the 63rd Annual Meeting of the Association for Computational
-                  Linguistics (Volume 1: Long Papers), {ACL} 2025, Vienna, Austria,
-                  July 27 - August 1, 2025},
-  pages        = {1426--1440},
-  publisher    = {Association for Computational Linguistics},
+  title        = {EarlyMix: Hierarchical Mixing for Early Time Series Classification},
+  booktitle    = {{IEEE} International Conference on Multimedia and Expo, {ICME} 2025,
+                  Nantes, France, June 30 - July 4, 2025},
+  pages        = {1--6},
+  publisher    = {{IEEE}},
   year         = {2025},
-  url          = {https://aclanthology.org/2025.acl-long.72/},
-  timestamp    = {Sun, 02 Nov 2025 21:27:24 +0100},
-  biburl       = {https://dblp.org/rec/conf/acl/HuHZ25.bib},
+  url          = {https://doi.org/10.1109/ICME59968.2025.11209452},
+  doi          = {10.1109/ICME59968.2025.11209452},
+  timestamp    = {Fri, 07 Nov 2025 11:48:59 +0100},
+  biburl       = {https://dblp.org/rec/conf/icmcs/HuHLZ25.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
