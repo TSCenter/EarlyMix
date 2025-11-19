@@ -35,16 +35,27 @@ bash run_earlyts_all.sh
 ## License
 If you use EarlyMix in a scientific publication, we would appreciate citations to the following paper:
 ```
-@INPROCEEDINGS{11209452,
-  author={Hu, Shuguo and Hu, Jun and Lv, Junwei and Zhang, Huaiwen},
-  booktitle={2025 IEEE International Conference on Multimedia and Expo (ICME)}, 
-  title={EarlyMix: Hierarchical Mixing for Early Time Series Classification}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={1-6},
-  keywords={Training;Measurement;Time series analysis;Refining;Predictive models;Feature extraction;Harmonic analysis;Data models;Reliability;Synthetic data;time series;mixing;early classification},
-  doi={10.1109/ICME59968.2025.11209452}}
+@inproceedings{DBLP:conf/acl/HuHZ25,
+  author       = {Shuguo Hu and
+                  Jun Hu and
+                  Huaiwen Zhang},
+  editor       = {Wanxiang Che and
+                  Joyce Nabende and
+                  Ekaterina Shutova and
+                  Mohammad Taher Pilehvar},
+  title        = {Synergizing LLMs with Global Label Propagation for Multimodal Fake
+                  News Detection},
+  booktitle    = {Proceedings of the 63rd Annual Meeting of the Association for Computational
+                  Linguistics (Volume 1: Long Papers), {ACL} 2025, Vienna, Austria,
+                  July 27 - August 1, 2025},
+  pages        = {1426--1440},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2025},
+  url          = {https://aclanthology.org/2025.acl-long.72/},
+  timestamp    = {Sun, 02 Nov 2025 21:27:24 +0100},
+  biburl       = {https://dblp.org/rec/conf/acl/HuHZ25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 ```
 
 License: GPLv3
