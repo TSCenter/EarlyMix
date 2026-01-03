@@ -2,6 +2,9 @@
 
 Source code (PyTorch) and dataset of the paper "[EarlyMix: Hierarchical Mixing for Early Time Series Classification](https://ieeexplore.ieee.org/document/11209452)", which is accepted by IEEE International Conference on Multimedia & Expo 2025 (ICME 2025).
 
+## Homepage and Paper
+Homepage: [https://github.com/TSCenter/EarlyMix](https://github.com/TSCenter/EarlyMix)
+Paper Access: IEEE [https://ieeexplore.ieee.org/document/11209452](https://ieeexplore.ieee.org/document/11209452)
 
 ## Dataset
 You can download the dataset from [here](https://www.timeseriesclassification.com/dataset.php).
