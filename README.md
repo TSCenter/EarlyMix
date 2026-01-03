@@ -4,6 +4,7 @@ Source code (PyTorch) and dataset of the paper "[EarlyMix: Hierarchical Mixing f
 
 ## Homepage and Paper
 Homepage: [https://github.com/TSCenter/EarlyMix](https://github.com/TSCenter/EarlyMix)
+
 Paper Access: IEEE [https://ieeexplore.ieee.org/document/11209452](https://ieeexplore.ieee.org/document/11209452)
 
 ## Dataset
